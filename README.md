@@ -1,6 +1,6 @@
 # MobileNet to detect signatures enclosed within the hand-drawn bounding boxes.
 
-This project harnesses the power of MobileNet architecture to achieve precise signature detection within hand-drawn bounding boxes. The dataset, comprised of 49 completed forms, includes signatures enclosed within meticulously crafted handmade bounding boxes.
+This project harnesses the power of MobileNet architecture to achieve precise signature detection within hand-drawn bounding boxes. The dataset, comprised of 49 completed forms, includes signatures enclosed within handmade bounding boxes.
 
 The approach capitalizes on the MobileNet framework for feature extraction, enhancing the model's ability to discern intricate signature details. This framework, combined with fine-grained localization techniques, ensures accurate and robust signature detection within the specified bounding regions.
 
